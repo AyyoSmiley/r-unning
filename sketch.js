@@ -89,12 +89,12 @@ function draw() {
         boy.scale=0.6;
         
          cashG.destroyEach;
-        // diamondsG.destroyEach;
+        diamondsG.destroyEach;
         // jewelryG.destroyEach;
         // swordGroup.destroyEach;
 
         // cashG.destroy();
-         diamondsG.destroy();
+         //diamondsG.destroy();
         // jewelryG.destroy();
         // swordGroup.destroy();
         
